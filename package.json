@@ -1,5 +1,5 @@
 {
-  "name": "eat-da-burger",
+  "name": "the-burger-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaronlng/eat-da-burger.git"
+    "url": "git+https://github.com/COSalinas/Burger-App"
   },
-  "author": "Aaron Long",
+  "author": "Christian Salinas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aaronlng/eat-da-burger/issues"
+    "url": "https://cosalinas.github.io/Burger-App/"
   },
-  "homepage": "https://github.com/aaronlng/eat-da-burger#readme",
+  "homepage": "https://cosalinas.github.io/Burger-App/",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
